@@ -1,4 +1,4 @@
-# This project is a Hardhat project that was converted to Foundry project and the test is executed in Foundry.
+# This project is a Hardhat project that was converted to Foundry project and the test executed in Foundry.
 
 # Althea Liquid Infrastructure audit details
 
