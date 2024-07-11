@@ -1,5 +1,7 @@
 # This project is a Hardhat project that was converted to Foundry project and the test executed in Foundry.
 
+## https://hardhat.org/hardhat-runner/docs/advanced/hardhat-and-foundry
+
 # Althea Liquid Infrastructure audit details
 
 - Total Prize Pool: $24,500 in USDC
